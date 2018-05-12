@@ -1,0 +1,33 @@
+_repo: Rosa-Mundi-and-Other-Stories_13774
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 13774-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dell, Ethel M. (Ethel May)
+    aliases:
+    - Savage, Ethel Mary Dell
+    - Dell, Ethel May
+    birthdate: 1881
+    deathdate: 1939
+    gutenberg_agent_id: '3564'
+    url: http://www.gutenberg.org/2009/agents/3564
+    wikipedia: http://en.wikipedia.org/wiki/Ethel_M._Dell
+description: ''
+gutenberg_issued: '2004-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13774'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcsh 'Manners and customs -- Fiction'
+- !lcc 'PR'
+tableOfContents: Rosa Mundi -- A Debt of honor -- The deliverer -- The prey of the
+  dragon -- The secret service man -- The penalty
+title: Rosa Mundi and Other Stories
+url: http://www.gutenberg.org/ebooks/13774
